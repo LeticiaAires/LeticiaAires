@@ -1,4 +1,8 @@
-### Oi! Sou a Letícia Aires
+# Hey there! I'm Letícia Aires🌱
+
+- 💼I'm a Software Engineering student at <a href="http://www.unb.br">University of Brasilia</a>
+- 💻I'm a Data Security Sudent at <a href="https://www.uniceub.br/">CEUB</a>
+
 
 <div align="center">
   <a href="https://github.com/LeticiaAires">
