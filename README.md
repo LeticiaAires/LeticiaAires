@@ -1,7 +1,7 @@
 # Hey there! I'm Letícia Aires🌱
 
 - 🎓I'm a Software Engineering student at <a href="http://www.unb.br">University of Brasilia</a>
-- 💻I'm a Data Security Sudent at <a href="https://www.uniceub.br/">CEUB</a>
+- 💻I'm a Data Security Graduate from <a href="https://www.uniceub.br/">CEUB</a>
 
 ## &nbsp;More about me👨🏻‍💻 
 ✔ I like to explore new technologies and develop software solutions and quick hacks <br>
