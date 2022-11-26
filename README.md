@@ -3,11 +3,6 @@
 - 🎓I'm a Software Engineering student at <a href="http://www.unb.br">University of Brasilia</a>
 - 💻I'm a Data Security Graduate from <a href="https://www.uniceub.br/">CEUB</a>
 
-## &nbsp;More about me👨🏻‍💻 
-✔ I like to explore new technologies and develop software solutions and quick hacks <br>
-✔ I love traveling and learning new languages <br>
-✔ I look forward to building a future in the IT world!
-
 
 <div align="center">
   <a href="https://github.com/LeticiaAires">
