@@ -10,8 +10,6 @@
 
 #### Currently studying frontend APIs and accessible software solutions.
 
-
-<br> <br> <br> 
   
   ##
   
