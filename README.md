@@ -17,7 +17,7 @@
   
 <div>
   
- <img src="https://github.com/LeticiaAires/LeticiaAires/blob/output/github-contribution-grid-snake.svg" min-width="600px" max-width="600px" width="600px" align="left" alt="Computador LeticiaAires">
+ <img src="https://github.com/LeticiaAires/LeticiaAires/blob/output/github-contribution-grid-snake.svg" min-width="900px" max-width="900px" width="900px" align="left" alt="Computador LeticiaAires">
   
   <h3> :earth_americas: &nbsp;Feel free to reach out! Always open to contribute to new projects </h3> 
   <a href="https://www.instagram.com/ttuce_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>
