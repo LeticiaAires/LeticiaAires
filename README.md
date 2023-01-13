@@ -1,17 +1,17 @@
 <img src="https://user-images.githubusercontent.com/72623771/211886316-b79d876e-0745-4dfa-a51d-ab21899bcb4a.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador LeticiaAires">
 
-# Hey there! I'm Letícia Aires🌱
+# Hey there! I'm Letícia Aires📍
 
 
 
 
 - 💻 7th semester Software Engineering undergraduate at the <a href="http://www.unb.br">University of Brasilia</a>
 - 🎓Data Security graduate from <a href="https://www.uniceub.br/">CEUB</a> 
+- 🌱 Public worker at <a href="http://www.portal.brb.com.br/">BRB</a> 
+- 📚 Fluent in portuguese, french and english (I try my best in german)
 
 #### Currently studying frontend APIs and accessible software solutions.
 
-  
-  ##
   
 <div>
   
