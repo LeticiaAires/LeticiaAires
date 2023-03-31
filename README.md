@@ -5,9 +5,10 @@
 
 
 
-- 💻 7th semester Software Engineering undergraduate at the <a href="http://www.unb.br">University of Brasilia</a>
+- 💻 8th semester Software Engineering undergraduate at the <a href="http://www.unb.br">University of Brasilia</a>
 - 🎓Data Security graduate from <a href="https://www.uniceub.br/">CEUB</a> 
-- 🌱 Public worker at <a href="http://www.portal.brb.com.br/">BRB</a> 
+- 🌱 Public worker at <a href="http://www.portal.brb.com.br/">BRB</a>
+- 🎓 Intern at <a href=https://www.autotrac.com.br/>Autotrac</a>
 - 📚 Fluent in portuguese, french and english
 - 📚 Intermediate german
 
