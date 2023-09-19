@@ -5,12 +5,11 @@
 
 
 
-- 💻 8th semester Software Engineering student at the <a href="http://www.unb.br">University of Brasilia</a>
+- 💻 9th semester Software Engineering student at the <a href="http://www.unb.br">University of Brasilia</a>
 - 🎓Data Security graduate from <a href="https://www.uniceub.br/">CEUB</a> 
-- 🌱 7th semester student in Artifical Intelligence Engineering <a href="https://www.ensea.fr/fr"> ENSEA </a>
 - 🎓 Intern at <a href=https://www.autotrac.com.br/>Autotrac</a>
-- 📚 Fluent in portuguese, french and english
-- 📚 Intermediate german
+- 📚 Fluent in portuguese and english
+- 📚 Intermediate french german
 
 #### Currently studying frontend APIs and accessible software solutions.
 
