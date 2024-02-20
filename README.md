@@ -5,11 +5,12 @@
 
 
 
-- 💻 9th semester Software Engineering student at the <a href="http://www.unb.br">University of Brasilia</a>
+- 💻 10th semester Software Engineering student at the <a href="http://www.unb.br">University of Brasilia</a>
+- 💻 Masters student in Signals and Artificial Intelligence at <a href="https://www.ensea.fr/fr">ENSEA</a>
 - 🎓Data Security graduate from <a href="https://www.uniceub.br/">CEUB</a> 
-- 🎓 Intern at <a href=https://www.autotrac.com.br/>Autotrac</a>
 - 📚 Fluent in portuguese and english
-- 📚 Intermediate french german
+- 📚 Advanced franch
+- 📚 Intermediate german and spanish
 
 #### Currently studying frontend APIs and accessible software solutions.
 
