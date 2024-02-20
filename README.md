@@ -20,5 +20,4 @@
  <img src="https://github.com/LeticiaAires/LeticiaAires/blob/output/github-contribution-grid-snake.svg" min-width="900px" max-width="900px" width="900px" align="left" alt="Computador LeticiaAires">
   
   <h3> :earth_americas: &nbsp;Feel free to reach out! I'm always open to contribute to new projects </h3> 
-  <a href="https://www.instagram.com/ttuce_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>
   <a href = "mailto:leticia.assuncao.aires@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=purple" target="_blank"></a>
