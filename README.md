@@ -5,9 +5,8 @@
 
 
 
-- 💻 10th semester Software Engineering student at the <a href="http://www.unb.br">University of Brasilia</a>
-- 💻 Masters student in Biomedical Engineering at <a href="https://www.ensea.fr/fr">ENSEA</a>
-- 🎓Data Security graduate from <a href="https://www.uniceub.br/">CEUB</a> 
+- 💻 Last semester Software Engineering student at the <a href="http://www.unb.br">University of Brasilia</a>
+- 💻 Last semester Biomedical Engineering student at <a href="https://www.ensea.fr/fr">ENSEA</a>
 
 #### Currently studying frontend APIs and accessible software solutions.
 
