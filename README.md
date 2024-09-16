@@ -13,9 +13,7 @@
 
   
 <div>
-  
- <img src="https://github.com/LeticiaAires/LeticiaAires/blob/output/github-contribution-grid-snake.svg" min-width="900px" max-width="900px" width="900px" align="left" alt="Computador LeticiaAires">
-  
+
   <h3> :earth_americas: &nbsp;Feel free to reach out! I'm always open to contribute to new projects </h3> 
 
 ![GitHub Snake Animation](https://github.com/LeticiaAires/LeticiaAires/blob/output/github-snake-dark.svg)
