@@ -8,8 +8,5 @@
 - 💻 Last semester Software Engineering student at the <a href="http://www.unb.br">University of Brasilia</a>
 
   
-<div>
-
-  <h3> :earth_americas: &nbsp;Feel free to reach out! I'm always open to contribute to new projects </h3> 
 
 ![GitHub Snake Animation](https://github.com/LeticiaAires/LeticiaAires/blob/output/github-snake-dark.svg)
