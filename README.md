@@ -4,8 +4,9 @@
 
 
 
-- 💻 Electronic Engineer by <a href="https://www.ensea.fr/fr">ENSEA</a>
+- 💻 Masters in Electronic Engineering by <a href="https://www.ensea.fr/fr">ENSEA</a>
 - 💻 Last semester Software Engineering student at the <a href="http://www.unb.br">University of Brasilia</a>
+- 💻 Data Security graduate by at the <a href="https://www.uniceub.br/">CEUB</a>
 
   
 
